@@ -1,7 +1,7 @@
 ### Welcome to my GitHub
 
 - Graduated in Electrical Engineering (UFSJ)
-- Master's Degree studant in Electrical Engineering (UFMG)
+- PhD studant in Electrical Engineering (UFMG)
 - Member of the Neuroscience Center (UFMG)
 
 <!--
