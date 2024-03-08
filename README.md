@@ -2,7 +2,7 @@
 
 - Graduated in Electrical Engineering (UFSJ - Brazil)
 - PhD studant in Electrical Engineering (UFMG - Brazil)
-- Member of the Núcelo de Neurociências (Nucleus of Neuroscience - NNC - Brazil)
+- Member of the Núcleo de Neurociências (Nucleus of Neuroscience - NNC - Brazil)
 
 <!--
 **mcjpedro/mcjpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
