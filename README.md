@@ -1,8 +1,8 @@
 ### Welcome to my GitHub
 
 - Graduated in Electrical Engineering (UFSJ - Brazil)
-- PhD studant in Electrical Engineering (UFMG - Brazil)
-- Member of the Núcleo de Neurociências (Nucleus of Neuroscience - NNC - Brazil)
+- PhD in Electrical Engineering (UFMG - Brazil)
+- Post-doctoral associate at University of Minnesota (US)
 
 Please visit [the website](https://github.com/orgs/nnc-ufmg/repositories) for more information on projects I am involved in
 
